@@ -1,5 +1,5 @@
 ## Taller de Docker - Level 1 - DevOps
-
+### Galo Agustin Arri - Franco Rodriguez
 En este archivo, se ecuentra una breve explicacion del compose para levantar un wordpress.
 
 Este archivo yml, es un manifiesto que representa la configuracion de un compose de docker.
